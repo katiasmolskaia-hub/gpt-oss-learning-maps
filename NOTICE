@@ -1,0 +1,27 @@
+GPT-OSS Learning Maps
+https://github.com/katiasmolskaia-hub/gpt-oss-learning-maps
+
+Copyright 2026 katiasmolskaia-hub, for project contributions to the extent
+copyright protection applies. Prepared with AI assistance.
+
+The project owner makes the project's viewer code, educational explanations,
+and visual design available under the Apache License, Version 2.0, to the
+extent the owner has rights to license them. This grant also covers those
+project contributions in version 0.1.0; version 0.1.1 adds explicit notices.
+This notice does not assert copyright in facts, numerical values, or purely
+AI-generated elements where copyright does not apply.
+
+Architecture, upstream code references, and checkpoint source: OpenAI.
+https://github.com/openai/gpt-oss
+https://huggingface.co/openai/gpt-oss-20b
+Upstream license: Apache License 2.0. The original upstream license is retained
+in licenses/openai-gpt-oss-APACHE-2.0.txt inside the downloadable package.
+Numeric windows were extracted and MXFP4 values reconstructed for education;
+the full checkpoint is not included. Geometry, explanations and the local
+viewers are project adaptations, not an official OpenAI product.
+
+Third-party materials retain their applicable notices and terms. Links and
+citations do not relicense the linked works. Private Architectural Core texts
+and other unpublished workspace files are not included in this grant.
+
+This NOTICE is for attribution and does not add conditions to Apache-2.0.
